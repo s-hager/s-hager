@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Stefan, a software engineering student at TU Graz.
+
+🛠️ Currently Working on [desktop-widget](https://github.com/s-hager/desktop-widget) - Stock chart widgets for the desktop
+
 <!--
 **s-hager/s-hager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
