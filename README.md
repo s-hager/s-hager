@@ -4,6 +4,11 @@
 
 🛠️ Currently Working on [desktop-widget](https://github.com/s-hager/desktop-widget) - Stock chart widgets for the desktop
 
+Coming Soon:
+- NixOS Configuration
+- Home Assistant Configuration
+- ESPHome Configuration 
+
 <!--
 **s-hager/s-hager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
