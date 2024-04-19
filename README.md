@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Stefan, a software engineering student at TU Graz.
+👨‍🎓 I'm Stefan, a software engineering student at TU Graz.
 
 🛠️ Currently Working on [desktop-widget](https://github.com/s-hager/desktop-widget) - Stock chart widgets for the desktop
 
